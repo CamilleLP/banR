@@ -1,0 +1,13 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+^README.Rmd$
+^\.travis\.yml$
+^cran-comments.md$
+^docs$
+^CONTRIBUTING\.md$
+^cran-comments\.md$
+^CRAN-RELEASE$
+^\.github$
+^revdep$
